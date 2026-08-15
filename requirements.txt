@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+streamlit
+requests
+python-dotenv
+
+chromadb==0.5.23
+sentence-transformers
+
+langchain
+langchain-core
+langchain-groq
+
+groq
+pydantic
